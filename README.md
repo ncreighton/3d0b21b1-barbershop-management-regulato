@@ -1,2 +1,28 @@
-# 3d0b21b1-barbershop-management-regulato
-Stop losing sleep over surprise health inspections and licensing audits. Your barbershop's regulatory compliance is now automated, organized, and impossible to miss with this Notion template.  This Barbershop Management Regulatory Compliance Checklist Notion Template eliminates the chaos of scattered paperwork and forgotten deadlines. It centralize
+# Barbershop Management Regulatory Compliance Checklist Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQfZh26H5wgbRSavOd0k0h)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQfZh26H5wgbRSavOd0k0h)
+
